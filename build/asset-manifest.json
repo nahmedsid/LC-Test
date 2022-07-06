@@ -1,0 +1,17 @@
+{
+  "files": {
+    "scmain.css": "/static/css/scmain.css",
+    "sjmain.js": "/static/js/sjmain.js",
+    "static/js/sjchunk.js": "/static/js/sjchunk.js",
+    "static/media/Cyberattack.svg": "/static/media/cyberattack.svg",
+    "static/media/lc-logo.jpeg": "/static/media/lc-logo.jpeg",
+    "index.html": "/index.html",
+    "scmain.css.map": "/static/css/scmain.css.map",
+    "sjmain.js.map": "/static/js/sjmain.js.map",
+    "sjchunk.js.map": "/static/js/sjchunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.css",
+    "static/js/sjmain.js"
+  ]
+}
